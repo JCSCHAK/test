@@ -2768,3 +2768,6 @@ http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Malibu Crush
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
+
+#EXTINF:-1  tvg-logo="https://filmezando.me/wp-content/uploads/2016/09/velozes1-203x300.jpg" group-title="FILMES",Velozes e furiosos 1
+https://ip290627787.ahcdn.com/key=1MMmVxr1oHq7zk3sXXyzmw,s=,end=1704488169,ip=187.84,limit=1/state=ZZg0u1Sz/buffer=5000000:16484106,6411.0/speed=1000000/referer=none,.apiavsee.com,.mmfilmes.me,.mykbj.com,.filmezando.co,.filmezando.me/reftag=269272069/ssd6/443/3/291278833/BR/movies/velozesefuriosos-dub-720p.mp4
